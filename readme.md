@@ -10,3 +10,4 @@ O propósito desse repositório é listar uma série de lives legais que ocorrer
 
 * [Lives sobre COVID-19](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/covid-19.md)
 * [Lives sobre Paleontologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/paleontologia.md)
+* [Lives sobre Psicologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/psicologia.md)
