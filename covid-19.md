@@ -3,6 +3,7 @@
 ## Índice de Canais
 
 * [Ciência USP](#Ciência-USP)
+* [Dragões de Garagem](#Dragões-de-Garagem)
 
 ### Ciência USP
 
@@ -13,3 +14,9 @@
 | 3      | [II Webinar Ciência USP - COVID-19: Epidemiologia e saúde das populações vulneráveis](http://www.youtube.com/watch?v=lQY3lvpLayU-Q)  | [![II Webinar Ciência USP - COVID-19: Epidemiologia e saúde das populações vulneráveis](https://img.youtube.com/vi/lQY3lvpLayU/mqdefault.jpg)](http://www.youtube.com/watch?v=lQY3lvpLayU)|
 | 4      | [I Webinar Ciência USP - COVID-19: Desafios para a medicina](http://www.youtube.com/watch?v=E8_WYavlwbc)  | [![I Webinar Ciência USP - COVID-19: Desafios para a medicina](https://img.youtube.com/vi/E8_WYavlwbc/mqdefault.jpg)](http://www.youtube.com/watch?v=E8_WYavlwbc)|
 | 5      | [LIVE - Diálogos na USP - Populações indígenas na pandemia](http://www.youtube.com/watch?v=XievSno2nCw)  | [![LIVE - Diálogos na USP - Populações indígenas na pandemia](https://img.youtube.com/vi/XievSno2nCw/mqdefault.jpg)](http://www.youtube.com/watch?v=XievSno2nCw)|
+
+### Dragões de Garagem
+
+| Índice | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 1      | [COVID-19: Como estamos?](https://www.youtube.com/watch?v=psu7URM-fgY)                               | [![COVID-19: Como estamos?](https://img.youtube.com/vi/psu7URM-fgY/mqdefault.jpg)](http://www.youtube.com/watch?v=psu7URM-fgY)|
