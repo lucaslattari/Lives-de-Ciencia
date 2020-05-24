@@ -1,7 +1,11 @@
-#Lives de Ciência - YouTube
+# Lives de Ciência - YouTube
 
 <div align="center">
-  ![](https://universodiscreto.com/images/giphy%20(24\).gif)
+  <img src="https://universodiscreto.com/images/science.gif" />
 </div>
 
-O propósito desse repositório é listar uma série de lives legais que ocorreram recentemente ligadas a ciência de alguma maneira. O foco maior será as de língua portuguesa, mas eventualmente posso criar um outro repositório ou seção com as apresentações em inglês
+O propósito desse repositório é listar uma série de lives legais que ocorreram recentemente ligadas a ciência de alguma maneira. O foco maior será em lives de língua portuguesa, mas eventualmente pode ser criado um outro repositório ou seção com as apresentações em inglês.
+
+## Índice
+
+* [Lives de Paleontologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/paleontologia.md)
