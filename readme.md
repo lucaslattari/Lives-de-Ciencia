@@ -8,4 +8,5 @@ O propósito desse repositório é listar uma série de lives legais que ocorrer
 
 ## Índice
 
-* [Lives de Paleontologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/paleontologia.md)
+* [Lives sobre COVID-19](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/covid-19.md)
+* [Lives sobre Paleontologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/paleontologia.md)
