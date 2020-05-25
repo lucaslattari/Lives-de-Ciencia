@@ -22,5 +22,5 @@
 
 | Índice | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 1      | [LANÇAMENTO H-2B COM HTV | AO VIVO](https://www.youtube.com/watch?v=OFqlHNcroTo) | [![LANÇAMENTO H-2B COM HTV | AO VIVO](https://img.youtube.com/vi/OFqlHNcroTo/mqdefault.jpg)](http://www.youtube.com/watch?v=OFqlHNcroTo)|
-| 2      | [LANÇAMENTO ATLAS V COM X-37B | AP VIVO](https://www.youtube.com/watch?v=5I8E5BJCnbo) | [![LANÇAMENTO ATLAS V COM X-37B | AP VIVO](https://img.youtube.com/vi/5I8E5BJCnbo/mqdefault.jpg)](http://www.youtube.com/watch?v=5I8E5BJCnbo)|
+| 1      | [LANÇAMENTO H-2B COM HTV - AO VIVO](https://www.youtube.com/watch?v=OFqlHNcroTo) | [![LANÇAMENTO H-2B COM HTV - AO VIVO](https://img.youtube.com/vi/OFqlHNcroTo/mqdefault.jpg)](http://www.youtube.com/watch?v=OFqlHNcroTo)|
+| 2      | [LANÇAMENTO ATLAS V COM X-37B - AP VIVO](https://www.youtube.com/watch?v=5I8E5BJCnbo) | [![LANÇAMENTO ATLAS V COM X-37B - AP VIVO](https://img.youtube.com/vi/5I8E5BJCnbo/mqdefault.jpg)](http://www.youtube.com/watch?v=5I8E5BJCnbo)|
