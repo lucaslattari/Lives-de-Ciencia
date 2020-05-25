@@ -27,3 +27,4 @@
 | Índice | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 1      | [Atualizações sobre COVID-19 em gestantes](https://www.youtube.com/watch?v=lQfrc1DFn_k)                               | [![Atualizações sobre COVID-19 em gestantes](https://img.youtube.com/vi/lQfrc1DFn_k/mqdefault.jpg)](http://www.youtube.com/watch?v=lQfrc1DFn_k)|
+| 2      | [Porque não aconteceu esse rebuliço todo em 2009 com H1N1? Cientistas respondem!](https://www.youtube.com/watch?v=eF6cldamrd4)                               | [![Porque não aconteceu esse rebuliço todo em 2009 com H1N1? Cientistas respondem!](https://img.youtube.com/vi/eF6cldamrd4/mqdefault.jpg)](http://www.youtube.com/watch?v=eF6cldamrd4)|
