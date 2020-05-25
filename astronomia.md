@@ -2,7 +2,7 @@
 
 ## Índice de Canais
 
-* [Café e Ciência](#Café e Ciência)
+* [Café e Ciência](#Café-e-Ciência)
 * [Ned Oliveira](#Ned-Oliveira)
 * [Space Today](#Space-Today)
 
