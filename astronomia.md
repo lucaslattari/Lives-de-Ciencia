@@ -2,9 +2,9 @@
 
 ## Índice de Canais
 
-* [Ciência USP](#Ciência-USP)
-* [Dragões de Garagem](#Dragões-de-Garagem)
-* [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
+* [Café e Ciência](#Café e Ciência)
+* [Ned Oliveira](#Ned-Oliveira)
+* [Space Today](#Space-Today)
 
 ### Café e Ciência
 
