@@ -4,7 +4,7 @@
 
 * [Ciência USP](#Ciência-USP)
 * [Dragões de Garagem](#Dragões-de-Garagem)
-* [Olá Ciência](#Ola-ciencia)
+* [Olá Ciência](#Olá-ciencia)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
 
 ### Ciência USP
