@@ -12,7 +12,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 29/05/2020 | [LIVE - USP Talks | Isolamento Social: Impactos na saúde pública e individual #USPtalks](https://www.youtube.com/watch?v=wK9qf0BA97s)                                | [![LIVE - USP Talks | Isolamento Social: Impactos na saúde pública e individual #USPtalks](https://img.youtube.com/vi/wK9qf0BA97s/mqdefault.jpg)](http://www.youtube.com/watch?v=wK9qf0BA97s)|
+| 29/05/2020 | [LIVE - USP Talks - Isolamento Social: Impactos na saúde pública e individual #USPtalks](https://www.youtube.com/watch?v=wK9qf0BA97s)                                | [![LIVE - USP Talks - Isolamento Social: Impactos na saúde pública e individual #USPtalks](https://img.youtube.com/vi/wK9qf0BA97s/mqdefault.jpg)](http://www.youtube.com/watch?v=wK9qf0BA97s)|
 
 ### Ciência USP
 
