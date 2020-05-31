@@ -9,6 +9,7 @@ O propósito desse repositório é listar uma série de lives legais que ocorrer
 ## Índice
 
 * [Lives sobre Astronomia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/astronomia.md)
+* [Lives sobre Biologia e Evolução](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/biologia-e-evolucao.md)
 * [Lives sobre COVID-19](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/covid-19.md)
 * [Lives sobre Fake News](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/fake-news.md)
 * [Lives sobre Geografia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/geografia.md)
