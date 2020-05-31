@@ -4,6 +4,7 @@
 
 * [Ciência USP](#Ciência-USP)
 * [Dragões de Garagem](#Dragões-de-Garagem)
+* [Olá Ciência](#Ola-ciencia)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
 
 ### Ciência USP
@@ -21,6 +22,13 @@
 | Índice | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 1      | [COVID-19: Como estamos?](https://www.youtube.com/watch?v=psu7URM-fgY)                               | [![COVID-19: Como estamos?](https://img.youtube.com/vi/psu7URM-fgY/mqdefault.jpg)](http://www.youtube.com/watch?v=psu7URM-fgY)|
+
+### Olá Ciência
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 30/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://www.youtube.com/watch?v=MaJMLqrtess)                               | [![SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://img.youtube.com/vi/MaJMLqrtess/mqdefault.jpg)](http://www.youtube.com/watch?v=MaJMLqrtess)|
+| 25/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: ONDE ESTAMOS NA CURVA?](https://www.youtube.com/watch?v=QLGqwq1kZBI)                               | [![SITUAÇÃO DA COVID-19 EM MG: ONDE ESTAMOS NA CURVA?](https://img.youtube.com/vi/QLGqwq1kZBI/mqdefault.jpg)](http://www.youtube.com/watch?v=QLGqwq1kZBI)|
 
 ### Nunca vi 1 cientista
 
