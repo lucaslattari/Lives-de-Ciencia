@@ -32,7 +32,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 27/05/2020 | [CREW DRAGON DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON | AO VIVO](https://www.youtube.com/watch?v=irT6AtrWrWA) | [![CREW DRAGON DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON | AO VIVO](https://img.youtube.com/vi/irT6AtrWrWA/mqdefault.jpg)](http://www.youtube.com/watch?v=irT6AtrWrWA)|
+| 27/05/2020 | [CREW DRAGON DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - AO VIVO](https://www.youtube.com/watch?v=irT6AtrWrWA) | [![CREW DRAGON DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - AO VIVO](https://img.youtube.com/vi/irT6AtrWrWA/mqdefault.jpg)](http://www.youtube.com/watch?v=irT6AtrWrWA)|
 | 20/05/2020 | [LANÇAMENTO H-2B COM HTV - AO VIVO](https://www.youtube.com/watch?v=OFqlHNcroTo) | [![LANÇAMENTO H-2B COM HTV - AO VIVO](https://img.youtube.com/vi/OFqlHNcroTo/mqdefault.jpg)](http://www.youtube.com/watch?v=OFqlHNcroTo)|
 | 20/05/2020 | [LANÇAMENTO ATLAS V COM X-37B - AP VIVO](https://www.youtube.com/watch?v=5I8E5BJCnbo) | [![LANÇAMENTO ATLAS V COM X-37B - AP VIVO](https://img.youtube.com/vi/5I8E5BJCnbo/mqdefault.jpg)](http://www.youtube.com/watch?v=5I8E5BJCnbo)|
 
