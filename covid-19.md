@@ -2,11 +2,18 @@
 
 ## Índice de Canais
 
+* [Bio's Fera](#Bios-Fera)
 * [Canal USP](#Canal-USP)
 * [Ciência USP](#Ciência-USP)
 * [Dragões de Garagem](#Dragões-de-Garagem)
 * [Olá Ciência](#Olá-ciencia)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
+
+### Bios Fera
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 28/05/2020 | [Caça, consumo de animais selvagens e risco de novas epidemias. China ou Brasil?](https://www.youtube.com/watch?v=41to0HS4GWo)                                | [![Caça, consumo de animais selvagens e risco de novas epidemias. China ou Brasil?](https://img.youtube.com/vi/41to0HS4GWo/mqdefault.jpg)](http://www.youtube.com/watch?v=41to0HS4GWo)|
 
 ### Canal USP
 
