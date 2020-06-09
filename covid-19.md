@@ -65,14 +65,17 @@
 
 ### Dragões de Garagem
 
-| Índice | Título do Vídeo                                                                                      | Vídeo |
+| Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 1      | [COVID-19: Como estamos?](https://www.youtube.com/watch?v=psu7URM-fgY)                               | [![COVID-19: Como estamos?](https://img.youtube.com/vi/psu7URM-fgY/mqdefault.jpg)](http://www.youtube.com/watch?v=psu7URM-fgY)|
+| 22/05/2020 | [COVID-19: Como estamos?](https://www.youtube.com/watch?v=psu7URM-fgY)                               | [![COVID-19: Como estamos?](https://img.youtube.com/vi/psu7URM-fgY/mqdefault.jpg)](http://www.youtube.com/watch?v=psu7URM-fgY)|
+| 26/03/2020 | [Live com Canal Peixe Babel: Estatísticas e Coronavírus](https://www.youtube.com/watch?v=Gm1XfKdo5us)                               | [![Live com Canal Peixe Babel: Estatísticas e Coronavírus](https://img.youtube.com/vi/Gm1XfKdo5us/mqdefault.jpg)](http://www.youtube.com/watch?v=Gm1XfKdo5us)|
+| 19/03/2020 | [Live com Nunca vi 1 Cientista: Respondendo dúvidas sobre Coronavirus e COVID-19](https://www.youtube.com/watch?v=NjuR6mYp07Y)                               | [![Live com Nunca vi 1 Cientista: Respondendo dúvidas sobre Coronavirus e COVID-19](https://img.youtube.com/vi/NjuR6mYp07Y/mqdefault.jpg)](http://www.youtube.com/watch?v=NjuR6mYp07Y)|
 
 ### Olá Ciência
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 05/06/2020 | [SITUAÇÃO DA COVID-19 EM MG: O AVANÇO DO VÍRUS PELO INTERIOR](https://www.youtube.com/watch?v=YLfMP9yxZtM)                               | [![SITUAÇÃO DA COVID-19 EM MG: O AVANÇO DO VÍRUS PELO INTERIOR](https://img.youtube.com/vi/YLfMP9yxZtM/mqdefault.jpg)](http://www.youtube.com/watch?v=YLfMP9yxZtM)|
 | 30/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://www.youtube.com/watch?v=MaJMLqrtess)                               | [![SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://img.youtube.com/vi/MaJMLqrtess/mqdefault.jpg)](http://www.youtube.com/watch?v=MaJMLqrtess)|
 | 25/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: ONDE ESTAMOS NA CURVA?](https://www.youtube.com/watch?v=QLGqwq1kZBI)                               | [![SITUAÇÃO DA COVID-19 EM MG: ONDE ESTAMOS NA CURVA?](https://img.youtube.com/vi/QLGqwq1kZBI/mqdefault.jpg)](http://www.youtube.com/watch?v=QLGqwq1kZBI)|
 
