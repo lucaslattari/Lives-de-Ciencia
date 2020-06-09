@@ -4,6 +4,7 @@
 
 * [Colecionadores de Ossos](#Colecionadores-de-Ossos)
 * [Comportamento Primatológico](#Comportamento-Primatológico)
+* [Make Science BR](#Make-Science-BR)
 
 ### Colecionadores de Ossos
 
@@ -20,3 +21,9 @@ https://www.youtube.com/watch?v=Kz6-bythJzw
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 1      | [Live (100 episódios!) - Saurópodes com Kamila Bandeira](http://www.youtube.com/watch?v=9IAiv5kDJB4) | [![Live (100 episódios!) - Saurópodes com Kamila Bandeira](https://img.youtube.com/vi/9IAiv5kDJB4/mqdefault.jpg)](http://www.youtube.com/watch?v=9IAiv5kDJB4)|
 | 2      | [Traços do passado: Os desafios da paleoarte no Brasil](http://www.youtube.com/watch?v=yQmRW3963BY)  | [![Traços do passado: Os desafios da paleoarte no Brasil](https://img.youtube.com/vi/yQmRW3963BY/mqdefault.jpg)](http://www.youtube.com/watch?v=yQmRW3963BY)|
+
+### Make Science BR
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 1      | [#29 De Cara Limpa (LIVE): Kamila Bandeira (Paleontologia e Dinossauros)](http://www.youtube.com/watch?v=rj9h9cM8plg) | [!#29 De Cara Limpa (LIVE): Kamila Bandeira (Paleontologia e Dinossauros)](https://img.youtube.com/vi/rj9h9cM8plg/mqdefault.jpg)](http://www.youtube.com/watch?v=rj9h9cM8plg)|
