@@ -4,6 +4,7 @@
 
 * [Café e Ciência](#Café-e-Ciência)
 * [Mensageiro Sideral](#Mensageiro-Sideral)
+* [Mistérios do Espaço](#Misterios-do-espaço)
 * [Ned Oliveira](#Ned-Oliveira)
 * [Space Today](#Space-Today)
 
@@ -20,6 +21,11 @@
 | -----------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 27/05/2020 | [AO VIVO: Primeiro voo tripulado da cápsula Crew Dragon (SpaceX/NASA)](https://www.youtube.com/watch?v=ET3JoMNIb7E) | [![AO VIVO: Primeiro voo tripulado da cápsula Crew Dragon (SpaceX/NASA)](https://img.youtube.com/vi/ET3JoMNIb7E/mqdefault.jpg)](http://www.youtube.com/watch?v=ET3JoMNIb7E)|
 
+### Mistérios do Espaço
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 09/06/2020 | [AO VIVO: TRIÂNGULO CELESTE (LUA, JÚPITER E SATURNO)](https://www.youtube.com/watch?v=8SmR-8u2F7c) | [![AO VIVO: TRIÂNGULO CELESTE (LUA, JÚPITER E SATURNO)](https://img.youtube.com/vi/8SmR-8u2F7c/mqdefault.jpg)](http://www.youtube.com/watch?v=8SmR-8u2F7c)|
 
 ### Ned Oliveira
 
