@@ -2,6 +2,7 @@
 
 ## Índice de Canais
 
+* [Atila Iamarino](#Atila-Iamarino)
 * [Bio's Fera](#Bios-Fera)
 * [Canal USP](#Canal-USP)
 * [Ciência USP](#Ciência-USP)
@@ -10,6 +11,18 @@
 * [Olá Ciência](#Olá-ciencia)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
 * [Universo Racionalista](#Universo-Racionalista)
+
+### Atila Iamarino
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 07/06/2020 | [Live 07/06 - Brasil: análise técnica da pandemia com Wanderson de Oliveira](https://www.youtube.com/watch?v=BtVZ-Gxh8dE)                                | [![Live 07/06 - Brasil: análise técnica da pandemia com Wanderson de Oliveira](https://img.youtube.com/vi/BtVZ-Gxh8dE/mqdefault.jpg)](http://www.youtube.com/watch?v=BtVZ-Gxh8dE)|
+| 01/06/2020 | [Live 01/06 - Reabrir Agora???](https://www.youtube.com/watch?v=qMxuoEbmwko)                                | [![Live 01/06 - Reabrir Agora???](https://img.youtube.com/vi/qMxuoEbmwko/mqdefault.jpg)](http://www.youtube.com/watch?v=qMxuoEbmwko)|
+| 24/05/2020 | [Live 24/05 - O pior lado da Pandemia, com Leandro Karnal](https://www.youtube.com/watch?v=nfdxqJSswjc)                                | [![Live 24/05 - O pior lado da Pandemia, com Leandro Karnal](https://img.youtube.com/vi/nfdxqJSswjc/mqdefault.jpg)](http://www.youtube.com/watch?v=nfdxqJSswjc)|
+| 18/05/2020 | [Live 18/05 - Força SUS. Ciência e Paciência com Drauzio Varella](https://www.youtube.com/watch?v=OLHQfqdYRUw)                                | [![Live 18/05 - Força SUS. Ciência e Paciência com Drauzio Varella](https://img.youtube.com/vi/OLHQfqdYRUw/mqdefault.jpg)](http://www.youtube.com/watch?v=OLHQfqdYRUw)|
+| 11/05/2020 | [Live 11/05 - Brasil e Desafios. Com a demógrafa Márcia Castro](https://www.youtube.com/watch?v=NkR1Qcvd6CA)                                | [![Live 11/05 - Brasil e Desafios. Com a demógrafa Márcia Castro](https://img.youtube.com/vi/NkR1Qcvd6CA/mqdefault.jpg)](http://www.youtube.com/watch?v=NkR1Qcvd6CA)|
+| 03/05/2020 | [Live 03/05 - O Lockdown vem aí](https://www.youtube.com/watch?v=gs-HlvC5iJc)                                | [![Live 03/05 - O Lockdown vem aí](https://img.youtube.com/vi/gs-HlvC5iJc/mqdefault.jpg)](http://www.youtube.com/watch?v=gs-HlvC5iJc)|
+| 28/04/2020 | [Live 28/04 - Por que o Brasil não aprende com o passado? Com Sidney Chalhoub](https://www.youtube.com/watch?v=dhDH8hCz2pA)                                | [![Live 28/04 - Por que o Brasil não aprende com o passado? Com Sidney Chalhoub](https://img.youtube.com/vi/dhDH8hCz2pA/mqdefault.jpg)](http://www.youtube.com/watch?v=dhDH8hCz2pA)|
 
 ### Bios Fera
 
