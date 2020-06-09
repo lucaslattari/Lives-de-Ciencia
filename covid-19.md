@@ -5,6 +5,7 @@
 * [Bio's Fera](#Bios-Fera)
 * [Canal USP](#Canal-USP)
 * [Ciência USP](#Ciência-USP)
+* [Doutora Drag Dimitra Vulcana](#Doutora-Drag-Dimitra-Vulcana)
 * [Dragões de Garagem](#Dragões-de-Garagem)
 * [Olá Ciência](#Olá-ciencia)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
@@ -31,6 +32,12 @@
 | 20/05/2020  | [III Webinar Ciência USP - COVID-19: Pesquisa Clínica e Políticas Públicas](http://www.youtube.com/watch?v=5HswjZTfc-Q)  | [![III Webinar Ciência USP - COVID-19: Pesquisa Clínica e Políticas Públicas](https://img.youtube.com/vi/5HswjZTfc-Q/mqdefault.jpg)](http://www.youtube.com/watch?v=5HswjZTfc-Q)|
 | 13/05/2020  | [II Webinar Ciência USP - COVID-19: Epidemiologia e saúde das populações vulneráveis](http://www.youtube.com/watch?v=lQY3lvpLayU-Q)  | [![II Webinar Ciência USP - COVID-19: Epidemiologia e saúde das populações vulneráveis](https://img.youtube.com/vi/lQY3lvpLayU/mqdefault.jpg)](http://www.youtube.com/watch?v=lQY3lvpLayU)|
 | 04/05/2013  | [I Webinar Ciência USP - COVID-19: Desafios para a medicina](http://www.youtube.com/watch?v=E8_WYavlwbc)  | [![I Webinar Ciência USP - COVID-19: Desafios para a medicina](https://img.youtube.com/vi/E8_WYavlwbc/mqdefault.jpg)](http://www.youtube.com/watch?v=E8_WYavlwbc)|
+
+### Doutora Drag Dimitra Vulcana
+
+| Índice | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 1      | [Cloroquina e Covid-19: o que você precisa saber.](https://www.youtube.com/watch?v=0BstjPi_ygs)                               | [![Cloroquina e Covid-19: o que você precisa saber.](https://img.youtube.com/vi/0BstjPi_ygs/mqdefault.jpg)](http://www.youtube.com/watch?v=0BstjPi_ygs)|
 
 ### Dragões de Garagem
 
