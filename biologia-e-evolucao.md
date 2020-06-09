@@ -25,3 +25,4 @@
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 14/05/2020 | [A evolução dos gatos (Adendo - Parte 1)](https://www.youtube.com/watch?v=hd58tfjpKpc) | [![A evolução dos gatos (Adendo - Parte 1)](https://img.youtube.com/vi/hd58tfjpKpc/mqdefault.jpg)](http://www.youtube.com/watch?v=hd58tfjpKpc)|
 | 14/05/2020 | [A evolução dos gatos (Adendo - Parte 2: continuação depois do CRASH do Youtube)](https://www.youtube.com/watch?v=o_v0V-C_ihk) | [![A evolução dos gatos (Adendo - Parte 2: continuação depois do CRASH do Youtube)](https://img.youtube.com/vi/o_v0V-C_ihk/mqdefault.jpg)](http://www.youtube.com/watch?v=o_v0V-C_ihk)|
+| 07/05/2020 | [LIVE: Dinossauros e macacos](https://www.youtube.com/watch?v=UrihMacFDaU) | [![LIVE: Dinossauros e macacos](https://img.youtube.com/vi/UrihMacFDaU/mqdefault.jpg)](http://www.youtube.com/watch?v=UrihMacFDaU)|
