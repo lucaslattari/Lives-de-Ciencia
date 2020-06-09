@@ -14,7 +14,7 @@
 ### Monica de Bolle
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
-| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| -------|:---------------------------------------------------------------------------------------------------:|:-----:|
 | 08/06/2020 | [A Economia Brasileira nos Últimos 10 Anos, Parte III](https://www.youtube.com/watch?v=3xS9nCkcFGk) | [![A Economia Brasileira nos Últimos 10 Anos, Parte III](https://img.youtube.com/vi/3xS9nCkcFGk/mqdefault.jpg)](http://www.youtube.com/watch?v=3xS9nCkcFGk)|
 | 30/05/2020 | [O PIB do Primeiro Trimestre de 2020 e...Livros!](https://www.youtube.com/watch?v=mFJ7enHEK4) | [![O PIB do Primeiro Trimestre de 2020 e...Livros!](https://img.youtube.com/vi/mFJ7enHEK4/mqdefault.jpg)](http://www.youtube.com/watch?v=mFJ7enHEK4)|
 | 29/05/2020 | [A Corrida pela Vacina: Conversa entre Monica e Denise](https://www.youtube.com/watch?v=WDA8TvNGPeQ) | [![A Corrida pela Vacina: Conversa entre Monica e Denise](https://img.youtube.com/vi/WDA8TvNGPeQ/mqdefault.jpg)](http://www.youtube.com/watch?v=WDA8TvNGPeQ)|
