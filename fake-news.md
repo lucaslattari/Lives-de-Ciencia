@@ -13,8 +13,6 @@
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 1      | [De arma biólogica à gripezinha: as fake news na pandemia (com Gilmar Lopes/E-farsas)](http://www.youtube.com/watch?v=GlXudEUxKWk) | [![De arma biólogica à gripezinha: as fake news na pandemia (com Gilmar Lopes/E-farsas)](https://img.youtube.com/vi/GlXudEUxKWk/mqdefault.jpg)](http://www.youtube.com/watch?v=GlXudEUxKWk)|
 | 2      | [Teorias Conspiratórias em época de pandemia](http://www.youtube.com/watch?v=AHvO8rj6ocU) | [![Teorias Conspiratórias em época de pandemia](https://img.youtube.com/vi/AHvO8rj6ocU/mqdefault.jpg)](http://www.youtube.com/watch?v=AHvO8rj6ocU)|
-
-https://www.youtube.com/watch?v=AHvO8rj6ocU
 </div>
 
 ### Papo de Primata
@@ -26,5 +24,3 @@ https://www.youtube.com/watch?v=AHvO8rj6ocU
 | 1      | [FAKE NEWS: é verdade essa live](http://www.youtube.com/watch?v=UlwOSVF0ym8) | [![FAKE NEWS: é verdade essa live](https://img.youtube.com/vi/UlwOSVF0ym8/mqdefault.jpg)](http://www.youtube.com/watch?v=UlwOSVF0ym8)|
 
 </div>
-
-https://www.youtube.com/watch?v=GlXudEUxKWk
