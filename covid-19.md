@@ -10,6 +10,7 @@
 * [Dragões de Garagem](#Dragões-de-Garagem)
 * [Olá Ciência](#Olá-ciencia)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
+* [Papo de Primata](#Papo-de-primata)
 * [Universo Racionalista](#Universo-Racionalista)
 
 ### Atila Iamarino
@@ -81,6 +82,12 @@
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 1      | [Atualizações sobre COVID-19 em gestantes](https://www.youtube.com/watch?v=lQfrc1DFn_k)                               | [![Atualizações sobre COVID-19 em gestantes](https://img.youtube.com/vi/lQfrc1DFn_k/mqdefault.jpg)](http://www.youtube.com/watch?v=lQfrc1DFn_k)|
 | 2      | [Porque não aconteceu esse rebuliço todo em 2009 com H1N1? Cientistas respondem!](https://www.youtube.com/watch?v=eF6cldamrd4)                               | [![Porque não aconteceu esse rebuliço todo em 2009 com H1N1? Cientistas respondem!](https://img.youtube.com/vi/eF6cldamrd4/mqdefault.jpg)](http://www.youtube.com/watch?v=eF6cldamrd4)|
+
+### Papo de Primata
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 30/04/2020 | [LIVE: O Futuro da Humanidade (feat. Biólogo Henrique)](https://www.youtube.com/watch?v=6R-yTYN_u8Q)                               | [![LIVE: O Futuro da Humanidade (feat. Biólogo Henrique)](https://img.youtube.com/vi/6R-yTYN_u8Q/mqdefault.jpg)](http://www.youtube.com/watch?v=6R-yTYN_u8Q)|
 
 ### Universo Racionalista
 
