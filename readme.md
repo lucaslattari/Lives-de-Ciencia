@@ -15,6 +15,7 @@ O propósito desse repositório é listar uma série de lives legais que ocorrer
 * [Lives sobre Economia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/economia.md)
 * [Lives sobre Fake News](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/fake-news.md)
 * [Lives sobre Geografia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/geografia.md)
+* [Lives sobre Gênero e Sexualidade](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/g%C3%AAnero-e-sexualidade.md)
 * [Lives sobre Meio Ambiente](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/meio-ambiente.md)
 * [Lives sobre Paleontologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/paleontologia.md)
 * [Lives sobre Psicologia](https://github.com/lucaslattari/Youtube-Live-Science/blob/master/psicologia.md)
