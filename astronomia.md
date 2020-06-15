@@ -36,7 +36,12 @@
 
 | Data       | Título do Vídeo                                                                                      | Vídeo |
 | -----------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 27/05/2020 | [AO VIVO: Primeiro voo tripulado da cápsula Crew Dragon (SpaceX/NASA)](https://www.youtube.com/watch?v=ET3JoMNIb7E) | [![AO VIVO: Primeiro voo tripulado da cápsula Crew Dragon (SpaceX/NASA)](https://img.youtube.com/vi/ET3JoMNIb7E/mqdefault.jpg)](http://www.youtube.com/watch?v=ET3JoMNIb7E)|
+| 11/06/2020 | [A Semana no Sistema Solar #2 (11.06.2020)](https://www.youtube.com/watch?v=VatMET2SbNM) | [![A Semana no Sistema Solar #2 (11.06.2020)](https://img.youtube.com/vi/VatMET2SbNM/mqdefault.jpg)](http://www.youtube.com/watch?v=VatMET2SbNM)|
+| 03/06/2020 | [AO VIVO: Lançamento da missão 8 do projeto Starlink (SpaceX)](https://www.youtube.com/watch?v=gByFesmJl0s) | [![AO VIVO: Lançamento da missão 8 do projeto Starlink (SpaceX)](https://img.youtube.com/vi/gByFesmJl0s/mqdefault.jpg)](http://www.youtube.com/watch?v=gByFesmJl0s)|
+| 31/05/2020 | [AO VIVO: Acoplagem da Crew Dragon (Demo-2)](https://www.youtube.com/watch?v=vIKbkizJOVI) | [![AO VIVO: Acoplagem da Crew Dragon (Demo-2)](https://img.youtube.com/vi/vIKbkizJOVI/mqdefault.jpg)](http://www.youtube.com/watch?v=vIKbkizJOVI)|
+| 30/05/2020 | [AO VIVO: Primeiro voo tripulado da Nasa na cápsula Crew Dragon, da SpaceX (segunda tentativa, 30.5)](https://www.youtube.com/watch?v=zY-nFR3pvw0) | [![AO VIVO: Primeiro voo tripulado da Nasa na cápsula Crew Dragon, da SpaceX (segunda tentativa, 30.5)](https://img.youtube.com/vi/zY-nFR3pvw0/mqdefault.jpg)](http://www.youtube.com/watch?v=zY-nFR3pvw0)|
+| 27/05/2020 | [AO VIVO: Primeiro voo tripulado da Nasa na cápsula Crew Dragon, da SpaceX (tentativa adiada, 27/5)](https://www.youtube.com/watch?v=ET3JoMNIb7E) | [![AO VIVO: Primeiro voo tripulado da Nasa na cápsula Crew Dragon, da SpaceX (tentativa adiada, 27/5)](https://img.youtube.com/vi/ET3JoMNIb7E/mqdefault.jpg)](http://www.youtube.com/watch?v=ET3JoMNIb7E)|
+| 24/06/2019 | [AO VIVO: Lançamento do Falcon Heavy da SpaceX com a missão STP-2](https://www.youtube.com/watch?v=1h2m5U6VJMs) | [![AO VIVO: Lançamento do Falcon Heavy da SpaceX com a missão STP-2](https://img.youtube.com/vi/1h2m5U6VJMs/mqdefault.jpg)](http://www.youtube.com/watch?v=1h2m5U6VJMs)|
 
 ### Mistérios do Espaço
 
