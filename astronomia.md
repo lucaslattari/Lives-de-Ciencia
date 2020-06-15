@@ -14,8 +14,11 @@
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 12/06/2020 | [Viradão Lançamento 2 Foguetes - SpaceX e RocketLab](https://www.youtube.com/watch?v=gWp5koogfZA) | [![Viradão Lançamento 2 Foguetes - SpaceX e RocketLab](https://img.youtube.com/vi/gWp5koogfZA/mqdefault.jpg)](http://www.youtube.com/watch?v=gWp5koogfZA)|
 | 10/06/2020 | [(Scrub) Lançamento Electron Foguete - Nova Zelandia - Don't Stop Me Now](https://www.youtube.com/watch?v=GCDPjG8VLBw) | [![(Scrub) Lançamento Electron Foguete - Nova Zelandia - Don't Stop Me Now](https://img.youtube.com/vi/GCDPjG8VLBw/mqdefault.jpg)](http://www.youtube.com/watch?v=GCDPjG8VLBw)|
-| 27/05/2020 | [Lançamento NASA e SpaceX - Crew Dragon](https://www.youtube.com/watch?v=aRzniN7X01Y) | [![Vamos para o Espaço! #LaunchAmerica](https://img.youtube.com/vi/aRzniN7X01Y/mqdefault.jpg)](http://www.youtube.com/watch?v=aRzniN7X01Y)|
-| 20/05/2020      | [Vamos para o Espaço! #LaunchAmerica](https://www.youtube.com/watch?v=QtFkY0-wQO0) | [![Vamos para o Espaço! #LaunchAmerica](https://img.youtube.com/vi/QtFkY0-wQO0/mqdefault.jpg)](http://www.youtube.com/watch?v=QtFkY0-wQO0)|
+| 03/06/2020 | [Lançamento Falcon 9 - SpaceX Starlink](https://www.youtube.com/watch?v=ccCs-oORbWE) | [![Lançamento Falcon 9 - SpaceX Starlink](https://img.youtube.com/vi/ccCs-oORbWE/mqdefault.jpg)](http://www.youtube.com/watch?v=ccCs-oORbWE)|
+| 31/05/2020 | [Acoplamento CrewDragon na ISS - NASA e SpaceX](https://www.youtube.com/watch?v=tHGEavLw8Wo) | [![Acoplamento CrewDragon na ISS - NASA e SpaceX](https://img.youtube.com/vi/tHGEavLw8Wo/mqdefault.jpg)](http://www.youtube.com/watch?v=tHGEavLw8Wo)|
+| 30/05/2020 | [Lançamento NASA e SpaceX - Crew Dragon](https://www.youtube.com/watch?v=lq2VKTQ4_ag) | [![Lançamento NASA e SpaceX - Crew Dragon](https://img.youtube.com/vi/lq2VKTQ4_ag/mqdefault.jpg)](http://www.youtube.com/watch?v=lq2VKTQ4_ag)|
+| 27/05/2020 | [Primeira tentativa. Lançamento NASA e SpaceX - Crew Dragon](https://www.youtube.com/watch?v=aRzniN7X01Y) | [![Primeira tentativa. Lançamento NASA e SpaceX - Crew Dragon](https://img.youtube.com/vi/aRzniN7X01Y/mqdefault.jpg)](http://www.youtube.com/watch?v=aRzniN7X01Y)|
+| 20/05/2020  | [Vamos para o Espaço! #LaunchAmerica](https://www.youtube.com/watch?v=QtFkY0-wQO0) | [![Vamos para o Espaço! #LaunchAmerica](https://img.youtube.com/vi/QtFkY0-wQO0/mqdefault.jpg)](http://www.youtube.com/watch?v=QtFkY0-wQO0)|
 
 ### Mensageiro Sideral
 
