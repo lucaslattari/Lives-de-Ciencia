@@ -40,7 +40,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 09/06/2020 | [Live: Mulheres e Paleoarte](http://www.youtube.com/watch?v=N4xP0fkzl40) | [![Live: Mulheres e Paleoarte](https://img.youtube.com/vi/N4xP0fkzl40/mqdefault.jpg)](http://www.youtube.com/watch?v=N4xP0fkzl40)|
+| 14/06/2020 | [Live: Mulheres e Paleoarte](http://www.youtube.com/watch?v=N4xP0fkzl40) | [![Live: Mulheres e Paleoarte](https://img.youtube.com/vi/N4xP0fkzl40/mqdefault.jpg)](http://www.youtube.com/watch?v=N4xP0fkzl40)|
 
 ### Papo de Primata
 
