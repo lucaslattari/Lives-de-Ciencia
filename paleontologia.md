@@ -2,10 +2,17 @@
 
 ## Índice de Canais
 
+* [Biólogo Henrique](#Biólogo-Henrique)
 * [Colecionadores de Ossos](#Colecionadores-de-Ossos)
 * [Comportamento Primatológico](#Comportamento-Primatológico)
 * [Make Science BR](#Make-Science-BR)
 * [Papo de Primata](#Papo-de-primata)
+
+### Biólogo Henrique
+
+| Data       | Título do Vídeo                                                                                      | Vídeo |
+| -----------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 31/05/2020 | [Profissão Biólogo: a paleontologia é da Biologia e da geologia e ponto final](http://www.youtube.com/watch?v=zYB78ggXjDE) | [![Profissão Biólogo: a paleontologia é da Biologia e da geologia e ponto final](https://img.youtube.com/vi/zYB78ggXjDE/mqdefault.jpg)](http://www.youtube.com/watch?v=zYB78ggXjDE)|
 
 ### Colecionadores de Ossos
 
