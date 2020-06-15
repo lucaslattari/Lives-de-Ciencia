@@ -3,6 +3,7 @@
 ## Índice de Canais
 
 * [Café e Ciência](#Café-e-Ciência)
+* [Canal do Schwarza](#Canal-do-Schwarza)
 * [Mensageiro Sideral](#Mensageiro-Sideral)
 * [Mistérios do Espaço](#Misterios-do-espaço)
 * [Ned Oliveira](#Ned-Oliveira)
@@ -20,6 +21,16 @@
 | 27/05/2020 | [Primeira tentativa. Lançamento NASA e SpaceX - Crew Dragon](https://www.youtube.com/watch?v=aRzniN7X01Y) | [![Primeira tentativa. Lançamento NASA e SpaceX - Crew Dragon](https://img.youtube.com/vi/aRzniN7X01Y/mqdefault.jpg)](http://www.youtube.com/watch?v=aRzniN7X01Y)|
 | 20/05/2020  | [Vamos para o Espaço! #LaunchAmerica](https://www.youtube.com/watch?v=QtFkY0-wQO0) | [![Vamos para o Espaço! #LaunchAmerica](https://img.youtube.com/vi/QtFkY0-wQO0/mqdefault.jpg)](http://www.youtube.com/watch?v=QtFkY0-wQO0)|
 
+### Canal do Schwarza
+
+| Data       | Título do Vídeo                                                                                      | Vídeo |
+| -----------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 13/06/2020 | [LANÇAMENTO SPACEX STARLINK MISSION](https://www.youtube.com/watch?v=cXgElE8GYHg) | [![LANÇAMENTO SPACEX STARLINK MISSION](https://img.youtube.com/vi/cXgElE8GYHg/mqdefault.jpg)](http://www.youtube.com/watch?v=cXgElE8GYHg)|
+| 05/06/2020 | [LIVE: ASTEROIDE 2002 NN4 PASSARÁ PERTO DA TERRA NESTE SÁBADO](https://www.youtube.com/watch?v=c6UVWJtpQaA) | [![LIVE: ASTEROIDE 2002 NN4 PASSARÁ PERTO DA TERRA NESTE SÁBADO](https://img.youtube.com/vi/c6UVWJtpQaA/mqdefault.jpg)](http://www.youtube.com/watch?v=c6UVWJtpQaA)|
+| 03/06/2020 | [LANÇAMENTO DO FALCON 9 - SPACEX STARLINK 7](https://www.youtube.com/watch?v=ln3qF2rEpE4) | [![LANÇAMENTO DO FALCON 9 - SPACEX STARLINK 7](https://img.youtube.com/vi/ln3qF2rEpE4/mqdefault.jpg)](http://www.youtube.com/watch?v=ln3qF2rEpE4)|
+| 31/05/2020 | [ACOPLAGEM DA CREW DRAGON DA SPACEX/NASA À ISS](https://www.youtube.com/watch?v=Xw6Z7hn3xvA) | [![ACOPLAGEM DA CREW DRAGON DA SPACEX/NASA À ISS](https://img.youtube.com/vi/Xw6Z7hn3xvA/mqdefault.jpg)](http://www.youtube.com/watch?v=Xw6Z7hn3xvA)|
+| 30/05/2020 | [LANÇAMENTO NASA/SPACEX - CREW DRAGON](https://www.youtube.com/watch?v=v3pMbldOFuE) | [![LANÇAMENTO NASA/SPACEX - CREW DRAGON](https://img.youtube.com/vi/v3pMbldOFuE/mqdefault.jpg)](http://www.youtube.com/watch?v=v3pMbldOFuE)|
+
 ### Mensageiro Sideral
 
 | Data       | Título do Vídeo                                                                                      | Vídeo |
@@ -36,8 +47,18 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 13/06/2020 | [LANÇAMENTO FALCON 9 STARLINK 8 / AO VIVO](https://www.youtube.com/watch?v=OlwVVky2aF8) | [![LANÇAMENTO FALCON 9 STARLINK 8 / AO VIVO](https://img.youtube.com/vi/OlwVVky2aF8/mqdefault.jpg)](http://www.youtube.com/watch?v=OlwVVky2aF8)|
+| 12/06/2020 | [DON'T STOP ME NOW / ELECTRON (AO VIVO)](https://www.youtube.com/watch?v=djpjpAkFOcU) | [![DON'T STOP ME NOW / ELECTRON (AO VIVO)](https://img.youtube.com/vi/djpjpAkFOcU/mqdefault.jpg)](http://www.youtube.com/watch?v=djpjpAkFOcU)|
+| 10/06/2020 | [LANÇAMENTO DO ELECTRON / MISSÃO DON'T STOP ME NOW (AO VIVO)](https://www.youtube.com/watch?v=vSUmWxMVfk8) | [![LANÇAMENTO DO ELECTRON / MISSÃO DON'T STOP ME NOW (AO VIVO)](https://img.youtube.com/vi/vSUmWxMVfk8/mqdefault.jpg)](http://www.youtube.com/watch?v=vSUmWxMVfk8)|
+| 06/06/2020 | [SALYUT 1 - SOYUZ 11 A tragédia espacial soviética](https://www.youtube.com/watch?v=1T5A6H4FhQ0) | [![SALYUT 1 - SOYUZ 11 A tragédia espacial soviética](https://img.youtube.com/vi/1T5A6H4FhQ0/mqdefault.jpg)](http://www.youtube.com/watch?v=1T5A6H4FhQ0)|
+| 03/06/2020 | [LANÇAMENTO FALCON 9 SPACEX - STARLINK 7 / AO VIVO](https://www.youtube.com/watch?v=NSQflOTWV1U) | [![LANÇAMENTO FALCON 9 SPACEX - STARLINK 7 / AO VIVO](https://img.youtube.com/vi/NSQflOTWV1U/mqdefault.jpg)](http://www.youtube.com/watch?v=NSQflOTWV1U)|
+| 31/05/2020 | [Crew Demo-2 Astronautas na ISS](https://www.youtube.com/watch?v=YU34tG1csVY) | [![Crew Demo-2 Astronautas na ISS](https://img.youtube.com/vi/YU34tG1csVY/mqdefault.jpg)](http://www.youtube.com/watch?v=YU34tG1csVY)|
+| 31/05/2020 | [CREW DRAGON SPACEX DEMO2 CHEGADA À ISS / AO VIVO](https://www.youtube.com/watch?v=NWqBz-d8Aes) | [![CREW DRAGON SPACEX DEMO2 CHEGADA À ISS / AO VIVO](https://img.youtube.com/vi/NWqBz-d8Aes/mqdefault.jpg)](http://www.youtube.com/watch?v=NWqBz-d8Aes)|
+| 30/05/2020 | [SPACEX DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - PARTE 2 AO VIVO](https://www.youtube.com/watch?v=WtYM7Is9NIM) | [![SPACEX DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - PARTE 2 AO VIVO](https://img.youtube.com/vi/WtYM7Is9NIM/mqdefault.jpg)](http://www.youtube.com/watch?v=WtYM7Is9NIM)|
 | 27/05/2020 | [SPACEX DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - AO VIVO](https://www.youtube.com/watch?v=jLTBSaQDdt4) | [![SPACEX DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - AO VIVO](https://img.youtube.com/vi/jLTBSaQDdt4/mqdefault.jpg)](http://www.youtube.com/watch?v=jLTBSaQDdt4)|
 | 20/05/2020 | [Telescópios e Astrofotografia](https://www.youtube.com/watch?v=vQ4SDHXWIOI) | [![Telescópios e Astrofotografia](https://img.youtube.com/vi/vQ4SDHXWIOI/mqdefault.jpg)](http://www.youtube.com/watch?v=vQ4SDHXWIOI)|
+| 09/05/2020 | [Dragon](https://www.youtube.com/watch?v=SXJ69_a7TM0) | [![Dragon](https://img.youtube.com/vi/SXJ69_a7TM0/mqdefault.jpg)](http://www.youtube.com/watch?v=SXJ69_a7TM0)|
+| 22/04/2020 | [Missão Starlink](https://www.youtube.com/watch?v=T8j4jNG6NnU) | [![Missão Starlink](https://img.youtube.com/vi/T8j4jNG6NnU/mqdefault.jpg)](http://www.youtube.com/watch?v=T8j4jNG6NnU)|
 
 ### Space Today
 
