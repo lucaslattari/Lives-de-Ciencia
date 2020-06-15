@@ -38,6 +38,9 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 13/06/2020 | [LANÇAMENTO DO FOGUETE SONDA JAPONÊS MOMO-5](https://www.youtube.com/watch?v=Q9o82JuQ5YM) | [![LANÇAMENTO DO FOGUETE SONDA JAPONÊS MOMO-5](https://img.youtube.com/vi/Q9o82JuQ5YM/mqdefault.jpg)](http://www.youtube.com/watch?v=Q9o82JuQ5YM)|
+| 13/06/2020 | [LANÇAMENTO FALCON 9 STARLINK 8/SKYSATS 16-18 - AO VIVO](https://www.youtube.com/watch?v=uwvJ2sekEpE) | [![LANÇAMENTO FALCON 9 STARLINK 8/SKYSATS 16-18 - AO VIVO](https://img.youtube.com/vi/uwvJ2sekEpE/mqdefault.jpg)](http://www.youtube.com/watch?v=uwvJ2sekEpE)|
+| 12/06/2020 | [SEGUNDA TENTATIVA LANÇAMENTO ELECTRON ROCKET LAB #DONTSTOPMENOW - AO VIVO](https://www.youtube.com/watch?v=Ectw5UotI-4) | [![SEGUNDA TENTATIVA LANÇAMENTO ELECTRON ROCKET LAB #DONTSTOPMENOW - AO VIVO](https://img.youtube.com/vi/Ectw5UotI-4/mqdefault.jpg)](http://www.youtube.com/watch?v=Ectw5UotI-4)|
 | 27/05/2020 | [CREW DRAGON DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - AO VIVO](https://www.youtube.com/watch?v=irT6AtrWrWA) | [![CREW DRAGON DEMO 2 - PRIMEIRO LANÇAMENTO TRIPULADO DA CREW DRAGON - AO VIVO](https://img.youtube.com/vi/irT6AtrWrWA/mqdefault.jpg)](http://www.youtube.com/watch?v=irT6AtrWrWA)|
 | 20/05/2020 | [LANÇAMENTO H-2B COM HTV - AO VIVO](https://www.youtube.com/watch?v=OFqlHNcroTo) | [![LANÇAMENTO H-2B COM HTV - AO VIVO](https://img.youtube.com/vi/OFqlHNcroTo/mqdefault.jpg)](http://www.youtube.com/watch?v=OFqlHNcroTo)|
 | 20/05/2020 | [LANÇAMENTO ATLAS V COM X-37B - AP VIVO](https://www.youtube.com/watch?v=5I8E5BJCnbo) | [![LANÇAMENTO ATLAS V COM X-37B - AP VIVO](https://img.youtube.com/vi/5I8E5BJCnbo/mqdefault.jpg)](http://www.youtube.com/watch?v=5I8E5BJCnbo)|
