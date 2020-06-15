@@ -46,6 +46,7 @@
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 12/06/2020 | [LIVE - Desafios: A importância do SUS na saúde pública](https://www.youtube.com/watch?v=KoiDe3Bssxg)                                | [![LIVE - Desafios: A importância do SUS na saúde pública](https://img.youtube.com/vi/KoiDe3Bssxg/mqdefault.jpg)](http://www.youtube.com/watch?v=KoiDe3Bssxg)|
+| 11/06/2020 | [LIVE - USP Talks: Impactos econômicos e sociais da pandemia](https://www.youtube.com/watch?v=8vUvCy8NEo4)                                | [![LIVE - USP Talks: Impactos econômicos e sociais da pandemia](https://img.youtube.com/vi/8vUvCy8NEo4/mqdefault.jpg)](http://www.youtube.com/watch?v=8vUvCy8NEo4)|
 | 29/05/2020 | [LIVE - USP Talks - Isolamento Social: Impactos na saúde pública e individual #USPtalks](https://www.youtube.com/watch?v=wK9qf0BA97s)                                | [![LIVE - USP Talks - Isolamento Social: Impactos na saúde pública e individual #USPtalks](https://img.youtube.com/vi/wK9qf0BA97s/mqdefault.jpg)](http://www.youtube.com/watch?v=wK9qf0BA97s)|
 
 ### Ciência USP
