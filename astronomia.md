@@ -12,6 +12,8 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 12/06/2020 | [Viradão Lançamento 2 Foguetes - SpaceX e RocketLab](https://www.youtube.com/watch?v=gWp5koogfZA) | [![Viradão Lançamento 2 Foguetes - SpaceX e RocketLab](https://img.youtube.com/vi/gWp5koogfZA/mqdefault.jpg)](http://www.youtube.com/watch?v=gWp5koogfZA)|
+| 10/06/2020 | [(Scrub) Lançamento Electron Foguete - Nova Zelandia - Don't Stop Me Now](https://www.youtube.com/watch?v=GCDPjG8VLBw) | [![(Scrub) Lançamento Electron Foguete - Nova Zelandia - Don't Stop Me Now](https://img.youtube.com/vi/GCDPjG8VLBw/mqdefault.jpg)](http://www.youtube.com/watch?v=GCDPjG8VLBw)|
 | 27/05/2020 | [Lançamento NASA e SpaceX - Crew Dragon](https://www.youtube.com/watch?v=aRzniN7X01Y) | [![Vamos para o Espaço! #LaunchAmerica](https://img.youtube.com/vi/aRzniN7X01Y/mqdefault.jpg)](http://www.youtube.com/watch?v=aRzniN7X01Y)|
 | 20/05/2020      | [Vamos para o Espaço! #LaunchAmerica](https://www.youtube.com/watch?v=QtFkY0-wQO0) | [![Vamos para o Espaço! #LaunchAmerica](https://img.youtube.com/vi/QtFkY0-wQO0/mqdefault.jpg)](http://www.youtube.com/watch?v=QtFkY0-wQO0)|
 
