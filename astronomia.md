@@ -7,6 +7,7 @@
 * [Mensageiro Sideral](#Mensageiro-Sideral)
 * [Mistérios do Espaço](#Misterios-do-espaço)
 * [Ned Oliveira](#Ned-Oliveira)
+* [Observatório Nacional](#Observatório-Nacional)
 * [Space Today](#Space-Today)
 
 ### Café e Ciência
@@ -59,6 +60,12 @@
 | 20/05/2020 | [Telescópios e Astrofotografia](https://www.youtube.com/watch?v=vQ4SDHXWIOI) | [![Telescópios e Astrofotografia](https://img.youtube.com/vi/vQ4SDHXWIOI/mqdefault.jpg)](http://www.youtube.com/watch?v=vQ4SDHXWIOI)|
 | 09/05/2020 | [Dragon](https://www.youtube.com/watch?v=SXJ69_a7TM0) | [![Dragon](https://img.youtube.com/vi/SXJ69_a7TM0/mqdefault.jpg)](http://www.youtube.com/watch?v=SXJ69_a7TM0)|
 | 22/04/2020 | [Missão Starlink](https://www.youtube.com/watch?v=T8j4jNG6NnU) | [![Missão Starlink](https://img.youtube.com/vi/T8j4jNG6NnU/mqdefault.jpg)](http://www.youtube.com/watch?v=T8j4jNG6NnU)|
+
+### Observatório Nacional
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 11/06/2020 | [Seminários da Astronomia - Dra Kelly Beatriz Vieira Torres Dozinel](https://www.youtube.com/watch?v=lA6oGuJ90-c) | [![Seminários da Astronomia - Dra Kelly Beatriz Vieira Torres Dozinel](https://img.youtube.com/vi/lA6oGuJ90-c/mqdefault.jpg)](http://www.youtube.com/watch?v=lA6oGuJ90-c)|
 
 ### Space Today
 
