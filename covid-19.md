@@ -75,6 +75,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 14/06/2020 | [SITUAÇÃO DA COVID-19 EM MG: EFEITOS DA REABERTURA #1](https://www.youtube.com/watch?v=GgYvKmvzkZI)                               | [![SITUAÇÃO DA COVID-19 EM MG: EFEITOS DA REABERTURA #1](https://img.youtube.com/vi/GgYvKmvzkZI/mqdefault.jpg)](http://www.youtube.com/watch?v=GgYvKmvzkZI)|
 | 05/06/2020 | [SITUAÇÃO DA COVID-19 EM MG: O AVANÇO DO VÍRUS PELO INTERIOR](https://www.youtube.com/watch?v=YLfMP9yxZtM)                               | [![SITUAÇÃO DA COVID-19 EM MG: O AVANÇO DO VÍRUS PELO INTERIOR](https://img.youtube.com/vi/YLfMP9yxZtM/mqdefault.jpg)](http://www.youtube.com/watch?v=YLfMP9yxZtM)|
 | 30/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://www.youtube.com/watch?v=MaJMLqrtess)                               | [![SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://img.youtube.com/vi/MaJMLqrtess/mqdefault.jpg)](http://www.youtube.com/watch?v=MaJMLqrtess)|
 | 25/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: ONDE ESTAMOS NA CURVA?](https://www.youtube.com/watch?v=QLGqwq1kZBI)                               | [![SITUAÇÃO DA COVID-19 EM MG: ONDE ESTAMOS NA CURVA?](https://img.youtube.com/vi/QLGqwq1kZBI/mqdefault.jpg)](http://www.youtube.com/watch?v=QLGqwq1kZBI)|
