@@ -6,6 +6,7 @@
 * [Colecionadores de Ossos](#Colecionadores-de-Ossos)
 * [Comportamento Primatológico](#Comportamento-Primatológico)
 * [Make Science BR](#Make-Science-BR)
+* [Paleotube](#Paleotube)
 * [Papo de Primata](#Papo-de-primata)
 
 ### Biólogo Henrique
@@ -33,6 +34,13 @@
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 09/06/2020 | [#29 De Cara Limpa (LIVE): Kamila Bandeira (Paleontologia e Dinossauros)](http://www.youtube.com/watch?v=rj9h9cM8plg) | [![#29 De Cara Limpa (LIVE): Kamila Bandeira (Paleontologia e Dinossauros)](https://img.youtube.com/vi/rj9h9cM8plg/mqdefault.jpg)](http://www.youtube.com/watch?v=rj9h9cM8plg)|
+
+
+### Paleotube
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 09/06/2020 | [Live: Mulheres e Paleoarte](http://www.youtube.com/watch?v=N4xP0fkzl40) | [![Live: Mulheres e Paleoarte](https://img.youtube.com/vi/N4xP0fkzl40/mqdefault.jpg)](http://www.youtube.com/watch?v=N4xP0fkzl40)|
 
 ### Papo de Primata
 
