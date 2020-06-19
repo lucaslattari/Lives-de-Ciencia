@@ -9,7 +9,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 18/06/2020 | [AI Brasil - AI School #8 | Da academia ao mercado - Vinícius Caridá](https://www.youtube.com/watch?v=Y_pdWmhzN8o) | [![AI Brasil - AI School #8 | Da academia ao mercado - Vinícius Caridá](https://img.youtube.com/vi/Y_pdWmhzN8o/mqdefault.jpg)](http://www.youtube.com/watch?v=Y_pdWmhzN8o)|
+| 18/06/2020 | [AI Brasil - AI School #8 - Da academia ao mercado - Vinícius Caridá](https://www.youtube.com/watch?v=Y_pdWmhzN8o) | [![AI Brasil - AI School #8 - Da academia ao mercado - Vinícius Caridá](https://img.youtube.com/vi/Y_pdWmhzN8o/mqdefault.jpg)](http://www.youtube.com/watch?v=Y_pdWmhzN8o)|
 | 11/06/2020 | [AI Brasil - AI School #7 - Viés e Explicabilidade - Bianca Ximenes](https://www.youtube.com/watch?v=cS_EgWRyMZc) | [![AI Brasil - AI School #7 - Viés e Explicabilidade - Bianca Ximenes](https://img.youtube.com/vi/cS_EgWRyMZc/mqdefault.jpg)](http://www.youtube.com/watch?v=cS_EgWRyMZc)|
 | 29/05/2020 | [AI Brasil - AI School #6 - Negócios e IA - Persival Ballesté](https://www.youtube.com/watch?v=gp3sAi91VQM) | [![AI Brasil - AI School #6 - Negócios e IA - Persival Ballesté](https://img.youtube.com/vi/gp3sAi91VQM/mqdefault.jpg)](http://www.youtube.com/watch?v=gp3sAi91VQM)|
 | 21/05/2020 | [AI Brasil - AI School #5 - Carreira em Ciência de Dados / IA - Mikaeri Ohana](https://www.youtube.com/watch?v=jYHQvzyV_fU) | [![AI Brasil - AI School #5 - Carreira em Ciência de Dados / IA - Mikaeri Ohana](https://img.youtube.com/vi/jYHQvzyV_fU/mqdefault.jpg)](http://www.youtube.com/watch?v=jYHQvzyV_fU)|
