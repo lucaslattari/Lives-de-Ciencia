@@ -1,8 +1,15 @@
-# Geografia
+# Geologia e Geografia
 
 ## Índice de Canais
 
+* [Observatório Nacional](#Observatório-Nacional)
 * [Terra Negra](#Terra-Negra)
+
+### Observatório Nacional
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 18/06/2020 | [Grandes Encontros - O campo geomagnético e a proteção da vida na Terra](https://www.youtube.com/watch?v=TbVCVnocXzU)  | [![Grandes Encontros - O campo geomagnético e a proteção da vida na Terra](https://img.youtube.com/vi/TbVCVnocXzU/mqdefault.jpg)](http://www.youtube.com/watch?v=TbVCVnocXzU)|
 
 ### Terra Negra
 
