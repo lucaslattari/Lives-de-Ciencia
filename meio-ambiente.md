@@ -1,9 +1,8 @@
-# Geologia e Meio Ambiente
+Meio Ambiente
 
 ## Índice de Canais
 
 * [Blablalogia](#Blablalogia)
-* [Observatório Nacional](#Observatório-Nacional)
 * [Projeto Sporum](#Projeto-sporum)
 
 ### Blablalogia
@@ -11,12 +10,6 @@
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 21/05/2020 | [Café com quê? EM MEIO À PANDEMIA, A MOTOSSERA CORRE SOLTA!](https://www.youtube.com/watch?v=yZNrMebESEo)  | [![Café com quê? EM MEIO À PANDEMIA, A MOTOSSERA CORRE SOLTA!](https://img.youtube.com/vi/yZNrMebESEo/mqdefault.jpg)](http://www.youtube.com/watch?v=yZNrMebESEo)|
-
-### Observatório Nacional
-
-| Data | Título do Vídeo                                                                                      | Vídeo |
-| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
-| 18/06/2020 | [Grandes Encontros - O campo geomagnético e a proteção da vida na Terra](https://www.youtube.com/watch?v=TbVCVnocXzU)  | [![Grandes Encontros - O campo geomagnético e a proteção da vida na Terra](https://img.youtube.com/vi/TbVCVnocXzU/mqdefault.jpg)](http://www.youtube.com/watch?v=TbVCVnocXzU)|
 
 ### Projeto Sporum
 
