@@ -19,6 +19,7 @@
 
 | Data       | Título do Vídeo                                                                                      | Vídeo |
 | -----------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 20/06/2020 | [#Live Cobras Gigantes da Ficção, do Presente e do Passado](http://www.youtube.com/watch?v=7rwe7aQ1Rz8) | [![#Live Cobras Gigantes da Ficção, do Presente e do Passado](https://img.youtube.com/vi/7rwe7aQ1Rz8/mqdefault.jpg)](http://www.youtube.com/watch?v=7rwe7aQ1Rz8)|
 | 31/05/2020 | [#Live Bate-papo sobre #Pterossauros e outras criaturas 'pré-históricas'](http://www.youtube.com/watch?v=VwbC06bKVxk) | [![#Live Bate-papo sobre #Pterossauros e outras criaturas 'pré-históricas'](https://img.youtube.com/vi/VwbC06bKVxk/mqdefault.jpg)](http://www.youtube.com/watch?v=VwbC06bKVxk)|
 | Semana de 03/05/2020 | [Live: Bate-Papo sobre Dinossauros](http://www.youtube.com/watch?v=Kz6-bythJzw) | [![Live: Bate-Papo sobre Dinossauros](https://img.youtube.com/vi/Kz6-bythJzw/mqdefault.jpg)](http://www.youtube.com/watch?v=Kz6-bythJzw)|
 
