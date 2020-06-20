@@ -78,6 +78,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 20/06/2020 | [COVID-19 em MG: Toda SÍNDROME RESPIRATÓRIA AGUDA GRAVE é COVID?](https://www.youtube.com/watch?v=N5Gygd0NcHg)                               | [![COVID-19 em MG: Toda SÍNDROME RESPIRATÓRIA AGUDA GRAVE é COVID?](https://img.youtube.com/vi/N5Gygd0NcHg/mqdefault.jpg)](http://www.youtube.com/watch?v=N5Gygd0NcHg)|
 | 14/06/2020 | [SITUAÇÃO DA COVID-19 EM MG: EFEITOS DA REABERTURA #1](https://www.youtube.com/watch?v=GgYvKmvzkZI)                               | [![SITUAÇÃO DA COVID-19 EM MG: EFEITOS DA REABERTURA #1](https://img.youtube.com/vi/GgYvKmvzkZI/mqdefault.jpg)](http://www.youtube.com/watch?v=GgYvKmvzkZI)|
 | 05/06/2020 | [SITUAÇÃO DA COVID-19 EM MG: O AVANÇO DO VÍRUS PELO INTERIOR](https://www.youtube.com/watch?v=YLfMP9yxZtM)                               | [![SITUAÇÃO DA COVID-19 EM MG: O AVANÇO DO VÍRUS PELO INTERIOR](https://img.youtube.com/vi/YLfMP9yxZtM/mqdefault.jpg)](http://www.youtube.com/watch?v=YLfMP9yxZtM)|
 | 30/05/2020 | [SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://www.youtube.com/watch?v=MaJMLqrtess)                               | [![SITUAÇÃO DA COVID-19 EM MG: AS UTIs SÃO SUFICIENTES?](https://img.youtube.com/vi/MaJMLqrtess/mqdefault.jpg)](http://www.youtube.com/watch?v=MaJMLqrtess)|
