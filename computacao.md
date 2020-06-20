@@ -3,6 +3,7 @@
 ## Índice de Canais
 
 * [AI Brasil Community](#AI-Brasil-Community)
+* [DevelopersBR](#DevelopersBR)
 * [EstaTiDados](#EstaTiDados)
 
 ### AI Brasil Community
@@ -18,6 +19,14 @@
 | 16/04/2020 | [AI School #2 - Recomendação na Prática - Gabriel Moreira](https://www.youtube.com/watch?v=A9YB4yKTONk) | [![AI School #2 - Recomendação na Prática - Gabriel Moreira](https://img.youtube.com/vi/A9YB4yKTONk/mqdefault.jpg)](http://www.youtube.com/watch?v=A9YB4yKTONk)|
 | 02/04/2020 | [AI Brasil - AI School #1 - Online](https://www.youtube.com/watch?v=RQR2zVmiLXQ) | [![AI Brasil - AI School #1 - Online](https://img.youtube.com/vi/RQR2zVmiLXQ/mqdefault.jpg)](http://www.youtube.com/watch?v=RQR2zVmiLXQ)|
 | 28/03/2020 | [LIVE: Inteligência Artificial na Saúde e ferramentas para chatbots](https://www.youtube.com/watch?v=mO5QbTAOKgQ) | [![LIVE: Inteligência Artificial na Saúde e ferramentas para chatbots](https://img.youtube.com/vi/mO5QbTAOKgQ/mqdefault.jpg)](http://www.youtube.com/watch?v=mO5QbTAOKgQ)|
+
+### DevelopersBR
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 20/06/2020 | [Online - DevAIWomen - O que você precisa saber sobre Análise de Dados](https://www.youtube.com/watch?v=pz8s8aoEaMI) | [![Online - DevAIWomen - O que você precisa saber sobre Análise de Dados](https://img.youtube.com/vi/pz8s8aoEaMI/mqdefault.jpg)](http://www.youtube.com/watch?v=pz8s8aoEaMI)|
+| 16/06/2020 | [OnLine - DevOps Nights #3 Continuous Integration: Como fazer CI no seu projeto](https://www.youtube.com/watch?v=sdwCz1kn1jg) | [![OnLine - DevOps Nights #3 Continuous Integration: Como fazer CI no seu projeto](https://img.youtube.com/vi/sdwCz1kn1jg/mqdefault.jpg)](http://www.youtube.com/watch?v=sdwCz1kn1jg)|
+| 13/06/2020 | [She Sharp - Rio - Você fica inseguro em uma entrevista de emprego?](https://www.youtube.com/watch?v=WaWWeSMrdZo) | [![She Sharp - Rio - Você fica inseguro em uma entrevista de emprego?](https://img.youtube.com/vi/WaWWeSMrdZo/mqdefault.jpg)](http://www.youtube.com/watch?v=WaWWeSMrdZo)|
 
 ### EstaTiDados
 
