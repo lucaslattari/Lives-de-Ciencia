@@ -53,6 +53,7 @@
 
 | Data | Título do Vídeo                                                                                      | Vídeo |
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 20/06/2020 | [VOOS SUBORBITAIS](https://www.youtube.com/watch?v=7EETlcnUNvg) | [![VOOS SUBORBITAIS](https://img.youtube.com/vi/7EETlcnUNvg/mqdefault.jpg)](http://www.youtube.com/watch?v=7EETlcnUNvg)|
 | 13/06/2020 | [LANÇAMENTO FALCON 9 STARLINK 8 / AO VIVO](https://www.youtube.com/watch?v=OlwVVky2aF8) | [![LANÇAMENTO FALCON 9 STARLINK 8 / AO VIVO](https://img.youtube.com/vi/OlwVVky2aF8/mqdefault.jpg)](http://www.youtube.com/watch?v=OlwVVky2aF8)|
 | 12/06/2020 | [DON'T STOP ME NOW / ELECTRON (AO VIVO)](https://www.youtube.com/watch?v=djpjpAkFOcU) | [![DON'T STOP ME NOW / ELECTRON (AO VIVO)](https://img.youtube.com/vi/djpjpAkFOcU/mqdefault.jpg)](http://www.youtube.com/watch?v=djpjpAkFOcU)|
 | 10/06/2020 | [LANÇAMENTO DO ELECTRON / MISSÃO DON'T STOP ME NOW (AO VIVO)](https://www.youtube.com/watch?v=vSUmWxMVfk8) | [![LANÇAMENTO DO ELECTRON / MISSÃO DON'T STOP ME NOW (AO VIVO)](https://img.youtube.com/vi/vSUmWxMVfk8/mqdefault.jpg)](http://www.youtube.com/watch?v=vSUmWxMVfk8)|
