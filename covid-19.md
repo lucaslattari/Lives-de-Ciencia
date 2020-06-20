@@ -8,7 +8,7 @@
 * [Ciência USP](#Ciência-USP)
 * [Doutora Drag Dimitra Vulcana](#Doutora-Drag-Dimitra-Vulcana)
 * [Dragões de Garagem](#Dragões-de-Garagem)
-* [Olá Ciência](#Olá-ciencia)
+* [Olá Ciência](#Olá-Ciência)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
 * [Papo de Primata](#Papo-de-primata)
 * [Universo Racionalista](#Universo-Racionalista)
