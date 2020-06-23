@@ -5,6 +5,7 @@
 * [AI Brasil Community](#AI-Brasil-Community)
 * [DevelopersBR](#DevelopersBR)
 * [EstaTiDados](#EstaTiDados)
+* [Instituto de Computação UFF](#Instituto-de-Computação-UFF)
 
 ### AI Brasil Community
 
@@ -34,3 +35,19 @@
 | -------|:----------------------------------------------------------------------------------------------------:|:-----:|
 | 13/06/2020 | [Live Marcos Santos ( Professor IME) - Problema do Caixeiro Viajante e Carteiro Chinês](https://www.youtube.com/watch?v=1cofTGpUWj0) | [![Live Marcos Santos ( Professor IME) - Problema do Caixeiro Viajante e Carteiro Chinês](https://img.youtube.com/vi/1cofTGpUWj0/mqdefault.jpg)](http://www.youtube.com/watch?v=1cofTGpUWj0)|
 | 13/06/2020 | [Live Marcos Santos ( Professor IME) - Problema do Caixeiro Viajante e Carteiro Chinês](https://www.youtube.com/watch?v=reliCzJ5w8A) | [![Live Marcos Santos ( Professor IME) - Problema do Caixeiro Viajante e Carteiro Chinês](https://img.youtube.com/vi/reliCzJ5w8A/mqdefault.jpg)](http://www.youtube.com/watch?v=reliCzJ5w8A)|
+
+### Instituto de Computação UFF
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 23/06/2020 | [O que vem após o NoSQL? NewSQL: uma nova era de desafios no processamento de dados escalável](https://www.youtube.com/watch?v=uBCTtfUq2XQ) | [![O que vem após o NoSQL? NewSQL: uma nova era de desafios no processamento de dados escalável](https://img.youtube.com/vi/uBCTtfUq2XQ/mqdefault.jpg)](http://www.youtube.com/watch?v=uBCTtfUq2XQ)|
+| 22/06/2020 | [Sistemas Embarcados em IoT](https://www.youtube.com/watch?v=aHM_ha44OAs) | [![Sistemas Embarcados em IoT](https://img.youtube.com/vi/aHM_ha44OAs/mqdefault.jpg)](http://www.youtube.com/watch?v=aHM_ha44OAs)|
+| 18/06/2020 | [Como o Movimento Ágil está modificando as estruturas das empresas](https://www.youtube.com/watch?v=1RtWHYEIPO0) | [![Como o Movimento Ágil está modificando as estruturas das empresas](https://img.youtube.com/vi/1RtWHYEIPO0/mqdefault.jpg)](http://www.youtube.com/watch?v=1RtWHYEIPO0)|
+| 16/06/2020 | [Redes Neurais Profundas: O que são? Como vivem? De que se alimentam?](https://www.youtube.com/watch?v=etebnvblYLY) | [![Redes Neurais Profundas: O que são? Como vivem? De que se alimentam?](https://img.youtube.com/vi/etebnvblYLY/mqdefault.jpg)](http://www.youtube.com/watch?v=etebnvblYLY)|
+| 10/06/2020 | [Empreendedorismo na universidade (Roda de Conversa)](https://www.youtube.com/watch?v=j9L39lj1hTs) | [![Empreendedorismo na universidade (Roda de Conversa)](https://img.youtube.com/vi/j9L39lj1hTs/mqdefault.jpg)](http://www.youtube.com/watch?v=j9L39lj1hTs)|
+| 09/06/2020 | [Por que GPUs são processadores tão poderosos?](https://www.youtube.com/watch?v=1OtLwPm-__Q) | [![Por que GPUs são processadores tão poderosos?](https://img.youtube.com/vi/1OtLwPm-__Q/mqdefault.jpg)](http://www.youtube.com/watch?v=1OtLwPm-__Q)|
+| 04/06/2020 | [Ataques cibernéticos: uma real ameaça a organizações, pessoas e nações](https://www.youtube.com/watch?v=WGS1fwkOVxI) | [![Ataques cibernéticos: uma real ameaça a organizações, pessoas e nações](https://img.youtube.com/vi/WGS1fwkOVxI/mqdefault.jpg)](http://www.youtube.com/watch?v=WGS1fwkOVxI)|
+| 02/06/2020 | [Loggi e o E-commerce: conectando o Brasil](https://www.youtube.com/watch?v=Hf9OEbTZmGk) | [![Loggi e o E-commerce: conectando o Brasil](https://img.youtube.com/vi/Hf9OEbTZmGk/mqdefault.jpg)](http://www.youtube.com/watch?v=Hf9OEbTZmGk)|
+| 28/05/2020 | [Cidades Inteligentes e Dados Abertos](https://www.youtube.com/watch?v=GUgAjxCi8vs) | [![Cidades Inteligentes e Dados Abertos](https://img.youtube.com/vi/GUgAjxCi8vs/mqdefault.jpg)](http://www.youtube.com/watch?v=GUgAjxCi8vs)|
+| 26/05/2020 | [O que esperar sobre o futuro dos videogames](https://www.youtube.com/watch?v=m4Gru2xxHyA) | [![O que esperar sobre o futuro dos videogames](https://img.youtube.com/vi/m4Gru2xxHyA/mqdefault.jpg)](http://www.youtube.com/watch?v=m4Gru2xxHyA)|
+| 19/05/2020 | [A inteligência artificial e seus desafios no combate à cultura da desinformação](https://www.youtube.com/watch?v=tc92LBnyFdc) | [![A inteligência artificial e seus desafios no combate à cultura da desinformação](https://img.youtube.com/vi/tc92LBnyFdc/mqdefault.jpg)](http://www.youtube.com/watch?v=tc92LBnyFdc)|
