@@ -8,8 +8,9 @@
 * [Ciência USP](#Ciência-USP)
 * [Doutora Drag Dimitra Vulcana](#Doutora-Drag-Dimitra-Vulcana)
 * [Dragões de Garagem](#Dragões-de-Garagem)
-* [Olá Ciência](#Olá-Ciência)
+* [Instituto de Computação UFF](#Instituto-de-Computação-UFF)
 * [Nunca vi 1 cientista](#Nunca-vi-1-cientista)
+* [Olá Ciência](#Olá-Ciência)
 * [Papo de Primata](#Papo-de-primata)
 * [Universo Racionalista](#Universo-Racionalista)
 
@@ -73,6 +74,12 @@
 | 22/05/2020 | [COVID-19: Como estamos?](https://www.youtube.com/watch?v=psu7URM-fgY)                               | [![COVID-19: Como estamos?](https://img.youtube.com/vi/psu7URM-fgY/mqdefault.jpg)](http://www.youtube.com/watch?v=psu7URM-fgY)|
 | 26/03/2020 | [Live com Canal Peixe Babel: Estatísticas e Coronavírus](https://www.youtube.com/watch?v=Gm1XfKdo5us)                               | [![Live com Canal Peixe Babel: Estatísticas e Coronavírus](https://img.youtube.com/vi/Gm1XfKdo5us/mqdefault.jpg)](http://www.youtube.com/watch?v=Gm1XfKdo5us)|
 | 19/03/2020 | [Live com Nunca vi 1 Cientista: Respondendo dúvidas sobre Coronavirus e COVID-19](https://www.youtube.com/watch?v=NjuR6mYp07Y)                               | [![Live com Nunca vi 1 Cientista: Respondendo dúvidas sobre Coronavirus e COVID-19](https://img.youtube.com/vi/NjuR6mYp07Y/mqdefault.jpg)](http://www.youtube.com/watch?v=NjuR6mYp07Y)|
+
+### Instituto de Computação UFF
+
+| Data | Título do Vídeo                                                                                      | Vídeo |
+| -------|:----------------------------------------------------------------------------------------------------:|:-----:|
+| 22/05/2020 | [Desenvolvimento de um sistema inteligente: o caso xRayCovid-19](https://www.youtube.com/watch?v=0AbGrwFdgx0)                               | [![Desenvolvimento de um sistema inteligente: o caso xRayCovid-19](https://img.youtube.com/vi/0AbGrwFdgx0/mqdefault.jpg)](http://www.youtube.com/watch?v=0AbGrwFdgx0)|
 
 ### Olá Ciência
 
